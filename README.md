@@ -1,6 +1,6 @@
 ## Getting Started
 First go to the /aeonaxy project directory.
-in this directory open terminal or command prompt
+in this directory open terminal or command prompt and run command below
 
 npm i
 or 
