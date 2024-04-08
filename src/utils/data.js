@@ -48,7 +48,7 @@ export const pagedata2 = {
   title: "Which are you most intrested in?",
   desc: "Choose just one. This will help us get started (but won't limit you experience).",
   btnName: "Continue",
-  path:"/pages/1",
+  path:"/",
   subData:[
     {
       id: 1,
